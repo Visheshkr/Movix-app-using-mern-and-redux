@@ -22,12 +22,7 @@ const Footer = () => {
                     <li className="menuItem">FAQ</li>
                 </ul>
                 <div className="infoText">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                    ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                    Duis aute irure dolor in reprehenderit in voluptate velit
-                    esse cillum dolore eu fugiat nulla pariatur.
+                Movix is a cutting-edge movie application designed to transform the way users experience and interact with cinema. This innovative platform offers a comprehensive suite of features, including personalized movie recommendations, real-time showtimes, and a vast library of trailers, reviews, and behind-the-scenes content. With seamless ticket booking, integrated social sharing, and community engagement, Movix creates a dynamic and immersive movie-watching experience.
                 </div>
                 <div className="socialIcons">
                     <span className="icon">
